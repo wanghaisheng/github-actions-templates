@@ -1,3 +1,7 @@
+增加视频社交媒体 网红的监测
+关键词视频的监测
+视频评论的监测
+
 # GitHub Actions Templates
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](.github/CODE_OF_CONDUCT.md)
 
